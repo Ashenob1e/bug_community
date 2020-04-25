@@ -10,8 +10,11 @@
 所以肯定会有诸多问题，希望自己狠心努力，一举拿下
 
 # 资料
-Spring文档：https://spring.io/guides  
-Spring前端：https://spring.io/guides/gs/serving-web-content/
+## Spring
+文档：https://spring.io/guides  
+前端：https://spring.io/guides/gs/serving-web-content/
+## Bootstrap
+资源包：https://v3.bootcss.com/getting-started/  
 
 # 690
 Whenever I would like to give you a hug  
